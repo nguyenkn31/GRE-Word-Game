@@ -15,7 +15,7 @@ To run this game, you will need a few components as belows.
 4. The program now asks you to direct it to the folder you want to store your code in. Please note that you must put the Excel file "BarronWordList.xlsx" in that same folder. When finished, click "Select Folder".
 5. On the left pane, you should see the Python file called "WordGame.py" - click on it to open that file.
 6. You should see the run button (the green triangle) on the top right corner - click on that.
-7. The program should be now running! In the terminal below (the lower half of the Microsoft Visual Code), you should see it prompts you to input either 1 or 2 (1 corresponds to match-them-up and 2 corresponds to hang-man). If you indeed see this, then you have succeeded! I have provided a demo in my video [here]().
+7. The program should be now running! In the terminal below (the lower half of the Microsoft Visual Code), you should see it prompts you to input either 1 or 2 (1 corresponds to match-them-up and 2 corresponds to hang-man). If you indeed see this, then you have succeeded! I have provided a demo in my video [here](https://www.youtube.com/watch?v=CrS0TyLsRDA&t=1s).
 
 # How to Add Words to the Excel file:
 1. Open the Excel file "BarronWordList.xlsx".
