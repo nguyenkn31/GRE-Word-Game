@@ -22,7 +22,7 @@ To run this game, you will need a few components as belows.
 2. You will see that there have been some words in there that I put as examples for you. Simply read from Barron's GRE Most Essential Words top-down, then fill in the word, its type, meaning, and example. The first three fields are taken from Barron's GRE Most Essential Words; however, you should create the examples yourself so you will find them more relevant for you, and hence, you will (hopefully) remember the word much longer.
 
 #Logs:
-August 10, 2021: Removed the number of times played for Hang-man. Program gets frozen less frequently during gameplay.
+August 10, 2021: Removed the number of times played for Hang-man. Program gets frozen less frequently during gameplay. Added openpyxl as a required package.
 
 #Contributor:
-Thank you Pham Giang Son and your friend for making the code less erroneous and much better.
+Thank you Pham Giang Son and your friend for making the code less erroneous and much better, and pointing out that openpyxl is required.
