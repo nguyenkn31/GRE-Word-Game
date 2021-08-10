@@ -4,7 +4,7 @@ This program consists of two games: match-them-up and hang-man. I will mention b
 # Pre-requisite:
 To run this game, you will need a few components as belows.
 1. Python: Go to https://www.python.org/downloads/ to download and install Python as normal. Proceed to install as normal. Please check on the "Add to PATH" option if it prompts you to do so. Tip: If you want to check whether you have successfully installed Python or not, type "CMD" in the search bar. When the Command Prompt opens up, type "Python". If it mentions Python along with the version, then you have successfully installed Python.
-2. Python Packages: You will need a few packages to run the game, including pandas, termcolor, and emoji. Open Command Prompt, then type "pip install [package name]". For example, for pandas, type "pip install pandas". Please do not include the quotation marks.
+2. Python Packages: You will need a few packages to run the game, including pandas, openpyxl, termcolor, and emoji. Open Command Prompt, then type "pip install [package name]". For example, for pandas, type "pip install pandas". Please do not include the quotation marks.
 3. Microsoft Visual Studio Code: Go to https://code.visualstudio.com/docs/?dv=win and the program will automatically download. Proceed to install as normal.
 4. I am not sure if you need this, but I have had one or two friends who deemed it necessary. When you are in Microsoft Visual Studio Code, press Ctrl + Shift + X. Look on the left side, in the "Search Extensions in..." box, type "Python". It should return a few options, click on the option called "Python" and it is from Microsoft. Install that extension.
 
